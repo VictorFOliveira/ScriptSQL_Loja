@@ -22,7 +22,7 @@ VALUES
 //inserindo dados do pedido
 insert into pedidos (id_cliente, data_pedido, status, valor_total)
 VALUES
-(1,'2024-11-22', 'em separacao', 50.50),
+(1,'2024-11-22', 'separacao', 50.50),
 (2,'2024-11-22', 'em rota', 100.50),
 (3,'2024-11-22', 'entregue', 22.00);
 
